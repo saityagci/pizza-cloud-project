@@ -1,7 +1,6 @@
 package com.cydeo.pizzacloud.enums;
 
 public enum Cheese {
-
     MOZZARELLA("Mozzarella"), CHEDDAR("Cheddar"), GOUDA("Gouda"), PARMESAN("Parmesan");
 
     private final String value;

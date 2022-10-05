@@ -1,7 +1,6 @@
 package com.cydeo.pizzacloud.enums;
 
 public enum Topping {
-
     MUSHROOMS("Mushrooms"), JALAPENOS("Jalapeños"), ONIONS("Onions"), RED_PEPPERS("Red Peppers"), TOMATOES("Tomatoes");
 
     private final String value;
